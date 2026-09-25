@@ -1,29 +1,66 @@
 # ♟️ Free Chess Game — Play Online
 
-A clean, fast, and easy-to-use **online chess game** from UtilityGlen. Play chess directly in your browser with **no downloads or installation required**.
+<p align="center">
+  <a href="https://utilityglen.com/games/free-chess-game">
+    <img src="https://github.com/s8utility/chess-game/blob/main/img_ug_cg.png?raw=true" alt="UtilityGlen Free Online Chess Game" width="900">
+  </a>
+</p>
 
-![Free Chess Game Preview](https://github.com/s8utility/chess-game/blob/main/img_ug_cg.png?raw=true)
+<p align="center">
+  <strong>Play chess online for free — directly in your browser.</strong><br>
+  Challenge the computer, play locally with a friend, choose your difficulty, and sharpen your chess skills.
+</p>
 
-## 🎮 About
+<p align="center">
+  <a href="https://utilityglen.com/games/free-chess-game">
+    <img src="https://img.shields.io/badge/♟️_PLAY_CHESS_NOW-Visit_UtilityGlen-22c55e?style=for-the-badge" alt="Play Chess Online">
+  </a>
+</p>
 
-**Free Chess Game** lets you enjoy a classic game of chess from any modern browser. Play against the computer, challenge a friend on the same device, and choose a difficulty level that matches your experience.
+<p align="center">
+  👆 <strong>Click above to start playing — no account required.</strong>
+</p>
 
-Whether you're learning the basics, practicing strategies, or simply looking for a quick chess match, the game is designed to keep things simple and accessible.
+---
+
+## ♟️ Play Chess Online for Free
+
+**UtilityGlen Chess** is a browser-based chess game designed for quick games, practice, and learning.
+
+No installation. No account. Just open the game, choose how you want to play, and make your first move.
 
 ## ✨ Features
 
-- ♟️ **Classic Chess Gameplay** — A familiar and intuitive chessboard experience.
-- 🤖 **Play vs Computer** — Practice against a computer opponent.
-- 👥 **Play With a Friend** — Challenge another player on the same device.
-- 📊 **Multiple Difficulty Levels** — Choose a level that fits your chess skills.
-- ↩️ **Undo Moves** — Go back and reconsider your previous move.
-- 🔄 **Instant New Games** — Restart the board whenever you want.
-- 🌐 **Browser-Based** — No installation or download required.
-- 💻 **Simple & Modern Interface** — Designed for an enjoyable distraction-free experience.
-- 🆓 **Free to Play** — Jump in and start playing.
+- 🤖 **Play Against the Computer**
+- 👥 **Local Two-Player Chess**
+- 🎯 **Multiple AI Difficulty Levels**
+- ⏱️ **Optional Chess Clocks**
+- 💡 **Hint System**
+- ↩️ **Undo Moves**
+- 🔄 **Flip the Chessboard**
+- 🎨 **Multiple Board Themes**
+- 🔊 **Optional Game Sounds**
+- 📋 **Copy Games in PGN Format**
+- ♟️ **Castling, Promotion & En Passant**
+- 👑 **Check, Checkmate & Stalemate Detection**
+- 🌐 **Play Directly in Your Browser**
+- 🆓 **Completely Free**
+- 🚫 **No Account Required**
 
-## 🚀 Play Now
+---
 
-Visit **UtilityGlen → Games → Free Chess Game** and start playing directly in your browser.
+## 🚀 Ready to Play?
 
-**Good moves. Better thinking. ♟️**
+Whether you're learning chess, practicing tactics, challenging a friend, or testing yourself against the computer, the board is ready.
+
+### 👉 [♟️ PLAY FREE CHESS NOW](https://utilityglen.com/games/free-chess-game)
+
+<p align="center">
+  <a href="https://utilityglen.com/games/free-chess-game">
+    <img src="https://img.shields.io/badge/PLAY_NOW-utilityglen.com-16a34a?style=for-the-badge&logo=lichess&logoColor=white" alt="Play Free Chess">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Good moves. Better thinking. ♟️</strong>
+</p>
